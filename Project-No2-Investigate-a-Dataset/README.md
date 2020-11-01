@@ -1,5 +1,4 @@
-# Udacity-Data-Analyst-Nanodegree-Project-No2-Investigate-a-Dataset
-
+# Project No2 Investigate a Dataset
 This is my repository for the second project of the Data Analyst Nanodegree Project from Udacity.
 
 # Project Overview
