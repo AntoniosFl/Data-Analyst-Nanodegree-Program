@@ -1,4 +1,4 @@
-# Project Summary
+# Project Overview
 
 This was the first project of the Data Analysis Nanodegree on Udacity. I analyzed local and global temperature data and compared the temperature trends of Hamburg to overall global temperature trends.
 
