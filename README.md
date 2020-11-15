@@ -7,6 +7,3 @@ This is a repository with the five required projects (as of September 2020) for 
 - _Analyze A/B Test Results_
 - _Wrangle and Analyze Data_
 - _Communicate Data Findings_
-
-
-A separate **README** for each project is going to be added.
