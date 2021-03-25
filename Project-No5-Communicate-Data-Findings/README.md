@@ -8,7 +8,7 @@ The primary method of conveying my findings was through the transformation of th
 
 In this project, I used the following libraries:
  - NumPy
- - pandas
+ - Pandas
  - Matplotlib
  - Seaborn
  
