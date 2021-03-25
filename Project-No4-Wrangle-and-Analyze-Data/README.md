@@ -40,4 +40,4 @@ I then analyzed and visualized the wrangled data in the wrangle_act.ipynb Jupyte
 
 <ins>**Reporting for this Project**</ins>
 
-I lastly created a written report called act_report.pdf that communicates the insights and displays the visualizatio produced from your wrangled data in an informal, lighter manner like a magazine article, for example.
+I lastly created a written report called act_report.pdf that communicates the insights and displays the visualization produced from the wrangled data in an informal, lighter manner like a magazine article, for example.
